@@ -37,7 +37,7 @@ This project requires no build tools or server setup. To view it locally:
 ## 📫 Contact
 
 - **Email**:[biamn4998@gmail.com](mailto:biamn4998@gmail.com)
-- **LinkedIn**: [Biman Santra](https://www.linkedin.com/in/biman499)
+- **LinkedIn**: [Biman Santra](https://www.linkedin.com/in/biman-santra-724b27302/)
 - **GitHub**: [biman499](https://github.com/biman499)
 - **Instagram**: [@biman__santra](https://www.instagram.com/biman__santra/)
 
